@@ -42,7 +42,5 @@ getAllBoxes.forEach((box)=>
         {
             getBody.style.backgroundColor = "#FFCC00";
         }
-        
-
     })
 });
