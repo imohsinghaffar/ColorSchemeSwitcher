@@ -1,0 +1,21 @@
+body{
+background-color:#F7F9FC;
+}
+.main-heading
+{
+    text-align: center;
+    color: #2C3E50;
+    padding: 10px;
+}
+
+.boxes
+{
+    text-align: center;
+}
+
+.box-1
+{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+}
